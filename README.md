@@ -1,3 +1,7 @@
-Jaime Sanroma
+<nombre>Jaime Sanroma</nombre>
 
-Hola soy Jaime, he estudiadio Ingeniería Informática y me gustan los deportes.
+<edad>26</edad>
+
+<ocio>Deportes</ocio>
+
+<carrera>Ing Inf</carrera>
