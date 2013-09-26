@@ -1,1 +1,2 @@
-Aloha
+echo "Hi there"
+echo "Another line"
